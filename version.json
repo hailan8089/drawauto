@@ -4,17 +4,18 @@
   "public_key_fingerprint": "7d9852194001f937",
   "payload": {
     "version_format": "2.0",
-    "latest_version": "1.1",
+    "latest_version": "1.4",
     "min_allowed_version": "1.1",
+    "deadline_date": "2026-11-11",
     "enforce_update": true,
     "auto_download": true,
-    "download_url": "/api/downloads/installer/DrawAutoCAD_Setup_v1.0.exe",
-    "external_download_url": "https://github.com/hailan8089/drawauto/releases/download/v1.0/DrawAutoCAD_Setup_v1.0.exe",
+    "download_url": "sfsfsfsfsf",
+    "external_download_url": "fssffsfff",
     "release_notes": "Phiên bản chuẩn V1.1",
     "installer_filename": "DrawAutoCAD_Setup_v1.0.exe",
     "installer_size_mb": 13.8,
     "installer_sha256": "90EE1E0E4755DD1DFB21992E7EC8D8D9C1052DB1AEF756842AA75EA899CF5545",
-    "published_at": "2026-10-25 03:11:19"
+    "published_at": "2026-10-25 03:40:30"
   },
-  "signature_rsa2048": "lu+EDqmRis1mrqHw5W2S2qalfMURtIl9ajm4QCnjnjpoxrbVx68GMfuW/7oO0aro3GlvCEvM1A7gjLvHVDFJBtp3I/ApFMSpDZ45MDurfb7WcOfakzgkKDzGbCorSDeiJEh60F+QmcXMe032vL1u58M+SRJF/JenI8bIqciNjRQkJvuOY1Thm6QG0lXNgtQz942EaY5USeRFHJEzEFWTQ+3Um7JdI4yxrNygUf6gjq9HvmTVWel4VPSfQeeRxpnm3iAA0unVdU6Z2BfItbPv5uEqVaXuRIXwgRa60Annz8uX+kFx4xF+9BvfIgnPr+MXGkG1y3573eXOJCx1kwjp1w=="
+  "signature_rsa2048": "ho6rb53nZQy7n5J62IGaWEcPLRMErI3Obo0KcgCFJesm7tjWFNk6k5XFhSzQ0SZYTq8GION/JqSKAjZiOTR38erGX9Ko/OQAS92+nE4rBimo9bHj4BIeHrgBjTz5QaiUnd7P+MrLW/b/yvMDvVIivNCJqTs4WjBH6oMKN+YbCmeATwpG3NBueDaxTw/b7VbJkToFw/n/M4cBU4YsT9Yr7CRPnXbfHdr7vgGEJEsqBLsNDEiUInq5s9ECd+/clBCG1iIt/UuCLIozqgzL5lgZarsuuxVBnlKg4X3rmSKHpDz1NTGMihD0gase0QsGo9YtvQt3XaI6S9DP2S9VINBO0A=="
 }
