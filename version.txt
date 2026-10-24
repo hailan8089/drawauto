@@ -1,11 +1,11 @@
-# DRAWAUTO ENTERPRISE VERSION MANIFEST - PUBLISHED: 2026-10-25 03:04:55
+# DRAWAUTO ENTERPRISE VERSION MANIFEST - PUBLISHED: 2026-10-25 03:06:50
 latest_version=1.1
 min_allowed_version=1.0
-enforce_update=true
+enforce_update=false
 auto_download=true
 download_url=/api/downloads/installer/DrawAutoCAD_Setup_v1.0.exe
 external_download_url=https://github.com/hailan8089/drawauto/releases/download/v1.0/DrawAutoCAD_Setup_v1.0.exe
 installer_filename=DrawAutoCAD_Setup_v1.0.exe
 installer_sha256=90EE1E0E4755DD1DFB21992E7EC8D8D9C1052DB1AEF756842AA75EA899CF5545
 ---SIGNATURE---
-EafsdrrnZOC+qHcs3wHGUnlXN2CHDqmm2c+yAN5Z71q/MVHXDGzMGbZDiFyQIstntsrp2r0Litg7Q3qzgO8suZzRqRKsoehbarKs7qbplLzNGt1gDuCAEP9tJrJS6qTz+VFCvOoVsWKxjaWchSMG/NjulFJqBHGJYgGYxQnVS29alWRSuk7bFM7ywzZDacl4D/hOLWlZqe1rGEmnglFEYdK3r01BytSL+jBf4eTjdqdS5/HDyI6RDG3VXu6a4SyyDEOg7+fGAlTDU/rb8yvvi64Rjqgf34mIIiI1JS36UsFR+NXPSETss56ZEEuwz0q+76ev/qMsAS5wBLkNK5s/Nw==
+Fg4wCrhlR2SLfxbFT3pfnImQ6liVM27nzJuBeiOBiWhz0TZwEKDGw+yXvmJvO85EjPmhvUwAd36e07EpT4F75riDWQ5cvhdxzQ+XmgmbW4uaklJp7ekv/s8z1znWO63u4OjFVR70RMQuQ6elluzNugnNdW8+vk+hjOJtN5rPKv/blrNC9AroAa1TgeEvC+nMm32gxPs4uAYepdRvNo9h4wWQFtihD1HpJh2pjortut7fexWcfD03DBvJiY0jJECCx8ZXcO248zTFSPls6PRmpPqnlxYHJfsrweni3638pI4Pkic7aeNFBzKVEZ92OJ79DUzEgFnpuWljVBm2PbDClQ==
