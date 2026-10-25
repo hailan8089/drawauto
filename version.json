@@ -9,13 +9,13 @@
     "deadline_date": "2026-09-13",
     "enforce_update": true,
     "auto_download": true,
-    "download_url": "sfsfsfsfsf",
+    "download_url": "/api/downloads/installer/DrawAuto_Enterprise_Setup_v1.0.zip",
     "external_download_url": "fssffsfff",
     "release_notes": "Phiên bản chuẩn V1.1",
-    "installer_filename": "DrawAutoCAD_Setup_v1.0.exe",
-    "installer_size_mb": 13.8,
-    "installer_sha256": "90EE1E0E4755DD1DFB21992E7EC8D8D9C1052DB1AEF756842AA75EA899CF5545",
-    "published_at": "2026-10-25 17:10:48"
+    "installer_filename": "DrawAuto_Enterprise_Setup_v1.0.zip",
+    "installer_size_mb": 13.27,
+    "installer_sha256": "8E23721E6CB3F67742627DB43DFCAAC2854FA59921C5361C691E2290EE999A84",
+    "published_at": "2026-10-25 17:16:59"
   },
-  "signature_rsa2048": "WasbHdaRAKo5EtIcDkgAA+8QmOZLO2WPPDkOBzltat4jFP6hY0i+mgGQtCSoyk749PS/7eeyFyMj1cxWXaXNTm7I2BRV9tqEvSVdQjLSVlZL6KLYILeG6knQc4Njq8AE9e5uFiTYHoBGOWz008IkD10tNYLi3/Fvx+B4Zf+Txax93lxh1bKuQUyvD4fuLG/yGKMQR5rW+R4HS7ryXC7nvgiSzxSRDbkQPcDymp2vGnRjzWLSZGmb9ElSd4SLMbEz7cRVgiszt0IvSabkYVdJGS23vXmYKzy+yNSZIjJMcgzQPJ0NrIzwAWTNo7w6xrwsr9jDY7bR7srVEd2ksjTXNA=="
+  "signature_rsa2048": "PbB3lYdKoiV2Vi1U0Kpfcuj8VRSnZpSxROHI8bNBTudcizuktt/u+Ki3ft9rDsq0X6oaaVJveS9wKMRVDwhx5HEhcRJm1IaCkXPxrXaS4mCzjdyIcca/CiFX+fSC32qPpO04v1Oekkxyp8hjzbgG96126OBaj02F0MJafUZZNg1X9jy1ZcWvI2UZ162ckNg27Kljy6CDuNvcJv2FjpgKBRUS5KW46Xe0JxGIQztwqGgPRMsi9GPwW7MbhcMaadOFSO766pjCdiwlSSSx3l3Qb7CD9LYG8r4iutQ0HTkdGAHRxOOk8NzmR3KR86rHps5W4SEYXKElJxWhDPgtOPoAzg=="
 }
