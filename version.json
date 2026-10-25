@@ -9,13 +9,13 @@
     "deadline_date": "2026-09-13",
     "enforce_update": true,
     "auto_download": true,
-    "download_url": "/api/downloads/installer/DrawAuto_Enterprise_Setup_v1.0.zip",
+    "download_url": "/api/downloads/installer/DrawAuto_Setup.exe",
     "external_download_url": "fssffsfff",
     "release_notes": "Phiên bản chuẩn V1.1",
-    "installer_filename": "DrawAuto_Enterprise_Setup_v1.0.zip",
-    "installer_size_mb": 13.27,
-    "installer_sha256": "8E23721E6CB3F67742627DB43DFCAAC2854FA59921C5361C691E2290EE999A84",
-    "published_at": "2026-10-25 17:16:59"
+    "installer_filename": "DrawAuto_Setup.exe",
+    "installer_size_mb": 13.8,
+    "installer_sha256": "90EE1E0E4755DD1DFB21992E7EC8D8D9C1052DB1AEF756842AA75EA899CF5545",
+    "published_at": "2026-10-25 17:17:26"
   },
-  "signature_rsa2048": "PbB3lYdKoiV2Vi1U0Kpfcuj8VRSnZpSxROHI8bNBTudcizuktt/u+Ki3ft9rDsq0X6oaaVJveS9wKMRVDwhx5HEhcRJm1IaCkXPxrXaS4mCzjdyIcca/CiFX+fSC32qPpO04v1Oekkxyp8hjzbgG96126OBaj02F0MJafUZZNg1X9jy1ZcWvI2UZ162ckNg27Kljy6CDuNvcJv2FjpgKBRUS5KW46Xe0JxGIQztwqGgPRMsi9GPwW7MbhcMaadOFSO766pjCdiwlSSSx3l3Qb7CD9LYG8r4iutQ0HTkdGAHRxOOk8NzmR3KR86rHps5W4SEYXKElJxWhDPgtOPoAzg=="
+  "signature_rsa2048": "fIaywpA+O4DfpPoyIlgWD9QIhxUr86cMVYRGTiCmuvfOenbEGNm11t6tRPhbuxKQOWfiyOZwr+qroyMv84bTsw0gXIiUg8yQbwGIJShkl56JAEAgXB+JfRIxURo6LaHH6zNBBrISMq+ZL+AWXzxeauw5w0QRrXqYyIzZiCmwJf0c87Aq7UrEJ/e5THslNwq034RGrZvx/mmaMWW6xqlZRZU2h7yaIQZhr/j0EL2b6cqLIF7CZ2K9SJnrKhxg8ehOMi1Venm/LHKb2dxhlClodhV60K77TjBQNaqm+LTxLmVLjTskOx23YUNp7wxPB0vE3hMh/6HZD3OmLYTTzVzfyQ=="
 }
