@@ -4,18 +4,19 @@
   "public_key_fingerprint": "7d9852194001f937",
   "payload": {
     "version_format": "2.0",
-    "latest_version": "1.4",
+    "latest_version": "1.1",
     "min_allowed_version": "1.1",
-    "deadline_date": "2026-09-13",
+    "deadline_date": "2026-03-10",
     "enforce_update": true,
+    "enforce_latest_version": true,
     "auto_download": true,
     "download_url": "/api/downloads/installer/DrawAuto_Setup.exe",
     "external_download_url": "fssffsfff",
     "release_notes": "Phiên bản chuẩn V1.1",
     "installer_filename": "DrawAuto_Setup.exe",
     "installer_size_mb": 13.8,
-    "installer_sha256": "90EE1E0E4755DD1DFB21992E7EC8D8D9C1052DB1AEF756842AA75EA899CF5545",
-    "published_at": "2026-10-25 17:17:26"
+    "installer_sha256": "E44FA96803D95335D68D5C078E70B878B20DAEC1934B75A5F48E38DE61063A56",
+    "published_at": "2026-10-25 17:42:32"
   },
-  "signature_rsa2048": "fIaywpA+O4DfpPoyIlgWD9QIhxUr86cMVYRGTiCmuvfOenbEGNm11t6tRPhbuxKQOWfiyOZwr+qroyMv84bTsw0gXIiUg8yQbwGIJShkl56JAEAgXB+JfRIxURo6LaHH6zNBBrISMq+ZL+AWXzxeauw5w0QRrXqYyIzZiCmwJf0c87Aq7UrEJ/e5THslNwq034RGrZvx/mmaMWW6xqlZRZU2h7yaIQZhr/j0EL2b6cqLIF7CZ2K9SJnrKhxg8ehOMi1Venm/LHKb2dxhlClodhV60K77TjBQNaqm+LTxLmVLjTskOx23YUNp7wxPB0vE3hMh/6HZD3OmLYTTzVzfyQ=="
+  "signature_rsa2048": "RzivE1UqGP1siUPHhvRtha1lWetPtADYNzkDDMWgJFfOSZhsj9TmdLuyTmYO5mHOi5DkSmSraicjHDyApAmYG9SGyNe2GkK3cwUHQFBGY64PxQfpfOVtWOPuMK5f2y65zYjvgncRCEd6JS9iMgSlEIpBWCM8310gmUTDTj+6r2mV4WHPDMFoiHvpnUteA82sBqFnz7+7Z2f6CxAK9h9AvEUhBc6tqCN7Rxks/+TKNX/r/sPfmyv4CbFvrkhAp6tKAPhbG7VH8qdE5GXIyGfS2JPRSOXo2X5vijX2ju037BpoYyBbixivS8i+7xqGn6HFPQJuf3yu3bXzX998f6LW3A=="
 }
