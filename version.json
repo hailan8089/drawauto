@@ -4,19 +4,19 @@
   "public_key_fingerprint": "7d9852194001f937",
   "payload": {
     "version_format": "2.0",
-    "latest_version": "1.1",
-    "min_allowed_version": "1.1",
+    "latest_version": "1.2",
+    "min_allowed_version": "1.0",
     "deadline_date": "2026-10-03",
-    "enforce_update": true,
-    "enforce_latest_version": true,
-    "auto_download": true,
+    "enforce_update": false,
+    "enforce_latest_version": false,
+    "auto_download": false,
     "download_url": "/api/downloads/installer/DrawAuto_Setup.exe",
     "external_download_url": "fssffsfff",
-    "release_notes": "PhiÃªn báº£n chuáº©n V1.1",
+    "release_notes": "Phiên bản V1.2 Global English MEP 2026 - Bổ sung 32 mã lệnh chuẩn quốc tế",
     "installer_filename": "DrawAuto_Setup.exe",
-    "installer_size_mb": 13.8,
-    "installer_sha256": "",
-    "published_at": "2026-10-25 17:50:49"
+    "installer_size_mb": 13.82,
+    "installer_sha256": "5993DEA49817B84A3739D8EB13E7F48F3117B110771FEDFAB70C7198EDCF8B2C",
+    "published_at": "2026-10-26 21:37:06"
   },
-  "signature_rsa2048": "VXSKhf/OF1Su3PmjZ67HuHiJhW8MORnhUVk8jqTny+JoLKUZKtFD75uEjo/9E0U4jq7tDu4j2E56GZAoPDYDL+iC7PbIO4Qd73KuF/rbQftEPWVV2HZbPpjQ+pT9NTpzv3Jja3XXPeysE6qFij8ZnFbksy/ulaa+96cUNv/cchCKLxZNk+JaKXDeKISGj1WM5mgr2P/YzsLBPXj++XMMSDgrdycopgFX3NM5nXxlif9ZhGeJ+BwsqgJ8oa2cqfXq8XwY6cqjh+Qzq8DpAcZp6LJ2lENhJQA10mVhTVx9OgFryPnM/IlRFL6Zd1AvK7m//0kgUpaoikrtthliUqRvnA=="
+  "signature_rsa2048": "jSpr8E0wauOP8KF6HwMFClhv8ZaOjEThnqS1PB/h8k9U2cngAxWMXKUk/gIKSyotEYzo+pX/3EQEIs/SeW0+R+Fn1/O8DS/+gbHAf3h7M5S8e7GhGWPQ9rMWq/plTIgMz1+xgTaoyo2WGf4GYERqiiD30xHYTpteeCje7IJk0yFWoMhwlQzA/rBOmezn+PBpJOlfGZSQO2GIioDEZNYuW1MHJr5d5Qu5Z3lEFl8qXZ7c1DiA2EguFTYR+BHpe3x9GJpGgrqXkyHHICIWkWVWZbzKleozkSgg387O6Sk2pu95uVeWCkthQNNNbUpzIxLBlGuyROfgz5nSdC65106BDw=="
 }
