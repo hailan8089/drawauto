@@ -1,12 +1,12 @@
-# DRAWAUTO ENTERPRISE VERSION MANIFEST - PUBLISHED: 2026-10-26 21:37:06
+# DRAWAUTO ENTERPRISE VERSION MANIFEST - PUBLISHED: 2026-10-28 16:36:57
 latest_version=1.2
 min_allowed_version=1.0
-deadline_date=2026-10-03
-enforce_update=false
-auto_download=false
-download_url=/api/downloads/installer/DrawAuto_Setup.exe
-external_download_url=fssffsfff
+deadline_date=2026-11-15
+enforce_update=true
+auto_download=true
+download_url=
+external_download_url=
 installer_filename=DrawAuto_Setup.exe
-installer_sha256=5993DEA49817B84A3739D8EB13E7F48F3117B110771FEDFAB70C7198EDCF8B2C
+installer_sha256=FCDFF05BB2395D0D92A8EEF0F3C81B2933CFA03CA7B14AF71A8A7C572BAF4E33
 ---SIGNATURE---
-jSpr8E0wauOP8KF6HwMFClhv8ZaOjEThnqS1PB/h8k9U2cngAxWMXKUk/gIKSyotEYzo+pX/3EQEIs/SeW0+R+Fn1/O8DS/+gbHAf3h7M5S8e7GhGWPQ9rMWq/plTIgMz1+xgTaoyo2WGf4GYERqiiD30xHYTpteeCje7IJk0yFWoMhwlQzA/rBOmezn+PBpJOlfGZSQO2GIioDEZNYuW1MHJr5d5Qu5Z3lEFl8qXZ7c1DiA2EguFTYR+BHpe3x9GJpGgrqXkyHHICIWkWVWZbzKleozkSgg387O6Sk2pu95uVeWCkthQNNNbUpzIxLBlGuyROfgz5nSdC65106BDw==
+UwAjplyRIP/F8xtG1nPnB2i7XHBMvMGA1/khvLySpTxUH9RT89bL/yF1J1hN4vw3VxPfJQP2DhZ8m5goiZQMCl87GVTKjIwrmnGwhFnsGbSoyDTe2QBQLaTQPA5aApFpCjJe+TYMHi5WHNYChN7jVNa9EQuDU/SxbpXoKijmt8BmuZIlt1jN+na4fGTRZV3KaXRxrwweH+sze5n1LovY1zPU2qyzm+3o66ohw67zbIi1VjetGHkjZuVR4RKRUJpqYy8BNtvKNPtmej9QPwgIHqbDsvWhw38X7Qdcb1dnJG73QbMcl4C4gRxmkULATJk1lllWq0u8UFvzZ+vDZiyz1A==
