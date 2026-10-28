@@ -13,10 +13,10 @@
     "download_url": "",
     "external_download_url": "",
     "release_notes": "Phiên bản V1.2 Global English MEP 2026 - Bổ sung 32 mã lệnh chuẩn quốc tế",
-    "installer_filename": "DrawAuto_Setup.exe",
-    "installer_size_mb": 19.99,
-    "installer_sha256": "FCDFF05BB2395D0D92A8EEF0F3C81B2933CFA03CA7B14AF71A8A7C572BAF4E33",
-    "published_at": "2026-10-28 16:37:13"
+    "installer_filename": "DrawAutoCAD_Setup_v1.2.exe",
+    "installer_size_mb": 8.57,
+    "installer_sha256": "01555634F342CBD9AE54934629EF1D00E5EE287CF373E6F64608EEE42FF97CB8",
+    "published_at": "2026-10-28 17:15:36"
   },
-  "signature_rsa2048": "bfsriTfBAkCBf+ojK32JzsD8mDPZz8LmtL1sdtGfb71NHElA3JvRdfvI3e7iaiCf4iUq/Lhg46rK/5lPR3lMNZVj6k1ggLzIQSxPpIOYEflQtCkuJJPzM9MGZT83sG1x2lba7gXterPCv3hpIpyxr4sIW0wsbXnhVvfQeL6vgA6z44LbKv1Kn7A6SXxdK5qjKWIhGX6rMm5HbRdDq2PZbuz0nWNKRzoqk6FqT7NJKiYvKQbBLrZwF8JiBcHgdY5lvVMXZ4ZebNi7W3mD1Ys4j5nTOSYPXN/Rb741Qwar0uNTfj2Wv90QRRNv/qxADc1YsYdxeu81BwTfqF03lic8jg=="
+  "signature_rsa2048": "pcEhjnqqJOcGEVte4CRB1Jxpes204bdGK3aoBqCBQYHq8S5Ioo0LdTfriXNyYCcwJzzqmCQC+6ENK+xgg8n7lLphANnJ4kwyWEHWIXd9IU5qJSzpY4MJpSyHNPmGclULrBlPh9YW8Roxb6t+UyzLM6ie6AayuXnrAoAHc+9WJonjO2zIh8dcLQJ1fwrGsqKBKgMULMv/w9cNvVnDFceAfAekzO+PZo39CpcdrlnWEzOm+wfFFq/lI7qJwK/r2czCmhLaimKa3nI2DXvWn1E5r8bT2RuMqwL1hKtmdOJw+1es/tqZ75IzL0iC2BHf/G89Xg/ZbkQ+camOAdHFh9d6Aw=="
 }
