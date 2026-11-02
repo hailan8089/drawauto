@@ -1,12 +1,10 @@
-# DRAWAUTO ENTERPRISE VERSION MANIFEST - PUBLISHED: 2026-10-28 17:15:36
-latest_version=1.2
-min_allowed_version=1.0
+# DRAWAUTO ENTERPRISE VERSION MANIFEST - PUBLISHED: 2026-11-03 03:29:16
+latest_version=1.3
+min_allowed_version=1.3
 deadline_date=2026-11-15
 enforce_update=true
 auto_download=true
-download_url=
-external_download_url=
-installer_filename=DrawAutoCAD_Setup_v1.2.exe
-installer_sha256=01555634F342CBD9AE54934629EF1D00E5EE287CF373E6F64608EEE42FF97CB8
----SIGNATURE---
-pcEhjnqqJOcGEVte4CRB1Jxpes204bdGK3aoBqCBQYHq8S5Ioo0LdTfriXNyYCcwJzzqmCQC+6ENK+xgg8n7lLphANnJ4kwyWEHWIXd9IU5qJSzpY4MJpSyHNPmGclULrBlPh9YW8Roxb6t+UyzLM6ie6AayuXnrAoAHc+9WJonjO2zIh8dcLQJ1fwrGsqKBKgMULMv/w9cNvVnDFceAfAekzO+PZo39CpcdrlnWEzOm+wfFFq/lI7qJwK/r2czCmhLaimKa3nI2DXvWn1E5r8bT2RuMqwL1hKtmdOJw+1es/tqZ75IzL0iC2BHf/G89Xg/ZbkQ+camOAdHFh9d6Aw==
+download_url=https://github.com/hailan8089/drawauto/releases/download/v1.3/DrawAutoCAD_Setup_v1.3.exe
+external_download_url=https://github.com/hailan8089/drawauto/releases/download/v1.3/DrawAutoCAD_v1.3_Setup_Full.zip
+installer_filename=DrawAutoCAD_Setup_v1.3.exe
+installer_sha256=FDA45975BD7DCC9913C9C155975340FCFAB16C01A28C8F086B137AFC92939CBE
