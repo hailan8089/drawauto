@@ -4,19 +4,19 @@
   "public_key_fingerprint": "7d9852194001f937",
   "payload": {
     "version_format": "2.0",
-    "latest_version": "1.3",
-    "min_allowed_version": "1.3",
+    "latest_version": "1.4",
+    "min_allowed_version": "1.4",
     "deadline_date": "2026-11-15",
     "enforce_update": true,
     "enforce_latest_version": true,
     "auto_download": true,
     "download_url": "",
     "external_download_url": "",
-    "release_notes": "Phiên bản v1.3 Native C# 2026 - Tự động nạp chứng chỉ Verified Publisher, chữ ký số Authenticode SHA-256, triệt tiêu 100% cảnh báo Windows SmartScreen & Virus.",
+    "release_notes": "Phiên bản v1.4 Native C# 2026 - Tự động nạp chứng chỉ Verified Publisher, chữ ký số Authenticode SHA-256, triệt tiêu 100% cảnh báo Windows SmartScreen & Virus.",
     "installer_filename": "DrawAutoCAD_Setup_v1.3.exe",
-    "installer_size_mb": 6.68,
-    "installer_sha256": "FDA45975BD7DCC9913C9C155975340FCFAB16C01A28C8F086B137AFC92939CBE",
-    "published_at": "2026-11-03 11:04:18"
+    "installer_size_mb": 8.58,
+    "installer_sha256": "7800AC4CCDF5099A6E8E25F9CC386DEF694CD1490B59B44E2E5DFE6CC4DE435B",
+    "published_at": "2026-11-03 14:39:17"
   },
-  "signature_rsa2048": "SlDjaUz+5hGhiNnwNTbFjgyuRWmg+YCerm0bSYB0FkP4wqOVFoWDZdyk2bvmzLPIe1QDRLfRUcU+2WWcaEQ+tgcFf3k342MoTOwS1P9RGmeuoGWsjDJRpPwwN0AeU1pdQOWERXFpORgBXgTvC5U4OLZNBjjC6NFCq3gHOiBNvd0dn6bpJ/pFYhR0ID5h3BI6iJ6RpCrJWCuaXKAmENZukCGxREkq4yDBRMsbJrxSplOkMX/0v5UXn8hIJ8Wv5rV9UHNdkNDx0+x2iFEfMtnsecs7ArFxQXJPuYpeevl1rNuEWXjq7jx6ACZVOe56mwDj3C+JdeC0WuVRC5tDjhY02w=="
+  "signature_rsa2048": "UQI4yFVDABD+VA5t1T1wi91NE3MBwCW2guoy3YQlls8JHCv1Rp83qY714L+SdA7EQtP8WIKMzaDQb0Iq0Ff9CZXHSKC3rHzIyBUIa0iDZW2vAetk3cOQQGN4rhmOjTSxldaC+HwZCnNKtw1dSvAlK9/PyzFeP5FUbCbt5la5iuBCUasFKnhHZUaKA+XR8as+MjOLjyPlxiieXVmgG7R7/q9aPqgFRzUtDTEV33YG17sZ3EZTlF5KTByrGI/jXviLwAKD1s3AO5s28TGr0DePSHeh2ZuPZI9PsKCZx4DUhqLtjPpny86Ewb1lNKARWA8R7rYJU0fjKrKZGbNNC1S+rQ=="
 }
