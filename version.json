@@ -8,7 +8,7 @@
     "min_allowed_version": "1.4",
     "deadline_date": "2026-11-15",
     "enforce_update": true,
-    "enforce_latest_version": false,
+    "enforce_latest_version": true,
     "auto_download": true,
     "download_url": "",
     "external_download_url": "",
@@ -16,7 +16,7 @@
     "installer_filename": "DrawAutoCAD_Setup_v1.4.exe",
     "installer_size_mb": 8.58,
     "installer_sha256": "704A43619E10CC96F1648BF5876A0C642A07CA65E59AF4B07457867FAC5BBFB7",
-    "published_at": "2026-11-05 04:03:54"
+    "published_at": "2026-11-05 04:04:33"
   },
-  "signature_rsa2048": "b8OKkbiIun6ZlKrtDN9QdGLHCBjQumYbqv1LNelVEwMhA7dNwUamZ+z3eOOeg553FLNDAH3Nk8Eip2519xqvUWq1OgPDdGNxeUx8ZEpzDJIVN247OsukiyJhV2kCkgNPcLNQH2fSWwCx1vBHFihRKABkgqJzmxSIiANgPd+zRddzbUQbXBNAS1wAbNt0H7+fk2BkHhhzl6wak4NXz+enHaYBV9m6wAssIBUF0DYRDF6Bcv5NqhweLAjpV+zJsHFLR9OBoPt8e79l41GU+XmwSA3GJ0eOOWMnru/cfXv8tLCW3pY3ZJsClx2w1BG7rE4J+3qWpNV44sGuHC6/9W1A0A=="
+  "signature_rsa2048": "Heo9X1fUpnMbWkw+DFOhriqh8dmKR8bewaSbNLR2F5jItN1+C+43ZiUr15MtjHKoKqtafP5nkQnGwWCUXy5yhHtqg+jYBYoSuniWip+iaRbDkxbfIbTmZmLLNHp2pvLLzywS8mMq/PX2SX1yuKoZFhML7WP0dmonpLrJix2W3waK/dWpQlPEP8zRisuC7f+aL8LcFhCwgeDotrk/AItw1OhcM4Hz0RXvoECVhwMGkrKqtrGsX8jHR3uovOw6o/ieak+1Zdy/jlL6KaXsUMJ3AhxKSIsaJ2203rNPguJFrJI8nw39c3A7LOxF5JFMu++Wjpx2lobTz2hw7c/VMc4IqQ=="
 }
