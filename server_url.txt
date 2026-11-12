@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://issues-amounts-seed-precise.trycloudflare.com
