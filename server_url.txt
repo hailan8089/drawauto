@@ -1,1 +1,1 @@
-https://mesh-structures-hart-wishlist.trycloudflare.com
+https://api.trycloudflare.com
